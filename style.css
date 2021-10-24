@@ -1,0 +1,38 @@
+body{
+    text-align: center;
+    padding-top: 80px;
+    background-image: linear-gradient(to bottom right,lightgreen, white 60%);
+}
+img{
+    padding: 28px;
+    border-radius: 30px;
+}
+
+.top{
+    margin-left:50px ;
+    margin-right: 45px;
+    font-size: 16px;
+    font-family:cursive;
+}
+h1{
+    font-family:cursive;
+    font-size: 28px;
+    margin-bottom: 40px;
+}
+#tit{
+    font-size: 36px;
+    color: brown;
+}
+div{
+    height: 4px;
+    width:70%;
+    background-color: black;
+    margin-top: 24px;
+    margin-left:15% ;
+}
+.bot{
+    margin-left:83px ;
+    margin-right: 20px;
+    font-size: 16px;
+    font-family:cursive;
+}
